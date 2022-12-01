@@ -1,3 +1,3 @@
 # ToDoAPI
-My first Django Rest project\n
+My first Django Rest project\
 Using Docker and unit tests.
